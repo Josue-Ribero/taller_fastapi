@@ -33,7 +33,6 @@ backend/
 │   └── 📄 cita.py                      # Modelo cita
 │
 ├── 📂 routers/                         # Endpoints del proyecto
-│   ├── 📄 hello_router.py              # Endpoint hello
 │   ├── 📄 vehiculo_router.py           # Endpoint vehiculo
 │   ├── 📄 bateria_router.py            # Endpoint bateria
 │   ├── 📄 usuario_router.py            # Endpoint usuario
